@@ -5,6 +5,8 @@ This is an unofficial Mac port of Teenage Mutant Ninja Turtles: Shredder's Reven
 You will need to provide the game files for this port to work. In the Finder, navigate to ~/Library/Application Support/, create a folder named TMNT
 and drop the game files inside.
 
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nonoche)
+
 ## How to get the game files from Steam
 
 1. Make sure Steam is running, then enter this url in a browser window: steam://open/console
